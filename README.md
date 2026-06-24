@@ -59,11 +59,12 @@ _Retrieval-Augmented Generation — connect AI to your documents._
 
 | Tool | Description |
 |------|-------------|
+| [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one desktop RAG app |
+| [Haystack](https://github.com/deepset-ai/haystack) | End-to-end NLP/RAG framework |
 | [LangChain](https://github.com/langchain-ai/langchain) | Framework for LLM apps with retrieval |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for LLM applications |
-| [Haystack](https://github.com/deepset-ai/haystack) | End-to-end NLP/RAG framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | RAG engine with deep document understanding |
-| [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one desktop RAG app |
+| [Remio](https://remio.ai/) | Local-first AI memory and knowledge base desktop app for indexing and retrieving personal context |
 
 ## AI Agents & Frameworks
 
