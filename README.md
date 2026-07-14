@@ -150,6 +150,7 @@ _Run and manage local AI infrastructure._
 | Tool | Description |
 |------|-------------|
 | [Docker](https://www.docker.com/) | Container runtime |
+| [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) | Share local AI agents over a trusted LAN without moving their code or credentials |
 | [Proxmox](https://www.proxmox.com/) | Virtualization platform |
 | [Portainer](https://www.portainer.io/) | Container management UI |
 | [Traefik](https://traefik.io/) | Reverse proxy & load balancer |
