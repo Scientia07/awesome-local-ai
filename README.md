@@ -74,6 +74,7 @@ _Build autonomous AI agents that run locally._
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent orchestration framework |
 | [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Agentic coding in the terminal |
+| [Hivekeep](https://github.com/MarlBurroW/hivekeep) | Self-hosted team of specialized AI agents with persistent memory and a web UI, in a single Bun + SQLite container |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open-source AI software developer |
 
 ## MCP Ecosystem
