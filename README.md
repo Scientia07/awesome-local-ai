@@ -82,6 +82,7 @@ _Model Context Protocol — connect AI to tools and data._
 
 | Tool | Description |
 |------|-------------|
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha local MCP server for encrypted, append-only knowledge with scoped, expiring grants; build from source |
 | [MCP Specification](https://modelcontextprotocol.io/) | The protocol specification |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Reference server implementations |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | Build MCP servers in TypeScript |
